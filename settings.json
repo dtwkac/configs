@@ -1,0 +1,7 @@
+{
+    "go.gopath": "~/workspace/go",
+    "go.goroot": "~/tools/go",
+    "go.toolsEnvVars": {
+        "GOPROXY": "https://goproxy.io"
+    }
+}
